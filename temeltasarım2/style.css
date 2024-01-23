@@ -1,0 +1,82 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #333;
+    overflow: hidden;
+}
+
+li {
+    float: left;
+    font-size: 22px;
+    padding: 10px;
+}
+
+li a {
+    color: white;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+}
+
+li a:hover{
+    background-color: #111;
+}
+
+.content {
+    background-color: #f5f5f0;
+    margin: 35px auto;
+    width: 70%;
+    text-align: center;
+    overflow: hidden;
+}
+
+#inphotos {
+    width: 265px;
+    height: 265px;
+    margin: 20px;
+    float: left;
+    border: 2px solid grey;
+}
+img {
+    width: 265px;
+    height: 265px;
+}
+
+form input {
+    width: 200px;
+    height: 20px;
+    border-radius: 5px;
+}
+textarea{
+    border-radius: 15px;
+    resize: none;
+}
+
+footer {
+    background-color: #333;
+    padding: 10px;
+    text-align: center;
+    color:#ccc;
+}
+
+.habercontent {
+    background-color: #f5f5f0;
+    margin: 35px auto;
+    width: 70%;
+    text-align: center;
+    overflow: hidden;
+}
+
+#haberinphotos {
+    width: 265px;
+    height: 265px;
+    margin: 20px;
+    float: left;
+    border: 2px solid grey;
+}
